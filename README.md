@@ -2,7 +2,7 @@
 This is a simple To-Do List project implemented using HTML, CSS, and JavaScript. It allows you to create and manage your tasks in an organized manner.
 Hosted at : [https://shiv75006.github.io/todolist/]
 
-To-Do List Screenshot
+## To-Do List Screenshot
 <img width="1434" alt="Screenshot 2023-08-15 at 5 47 07 PM" src="https://github.com/shiv75006/todolist/assets/94912395/50885773-8f2d-4fd0-ad56-b5422000ce8d">
 
 ## Features
